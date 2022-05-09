@@ -49,6 +49,14 @@ button:hover {
   border-radius: 2rem;
 }
 
+#cambiar-tema{
+  position: fixed;
+  top: 2rem;
+  right: 2rem ;
+  z-index: 1;
+
+}
+
 .header-card {
   box-shadow: var(--shadow);
   border-radius: 10px;
